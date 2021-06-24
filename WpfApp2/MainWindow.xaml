@@ -50,7 +50,7 @@
                         <Grid  Height="50" Width="50">
                             <Ellipse x:Name="ellipse2" HorizontalAlignment="Center" Height="40" Stroke="{x:Null}" StrokeThickness="0" VerticalAlignment="Center" Width="40" Fill="Black">
                                 <Ellipse.Effect>
-                                    <DropShadowEffect BlurRadius="8" Direction="129" Color="#FF6FC8CB"/>
+                                    <DropShadowEffect BlurRadius="8" Direction="129" Color="#FFBCBDBF"/>
                                 </Ellipse.Effect>
                             </Ellipse>
                             <Ellipse x:Name="ellipse" Fill="#FF202427" HorizontalAlignment="Center" Height="40" StrokeThickness="1" VerticalAlignment="Center" Width="40" Stroke="Black">
@@ -116,7 +116,7 @@
                         <Grid  Height="50" Width="50">
                             <Ellipse x:Name="ellipse2" HorizontalAlignment="Center" Height="40" Stroke="{x:Null}" StrokeThickness="0" VerticalAlignment="Center" Width="40" Fill="Black">
                                 <Ellipse.Effect>
-                                    <DropShadowEffect BlurRadius="8" Direction="129" Color="#FFCB9A6F"/>
+                                    <DropShadowEffect BlurRadius="8" Direction="129" Color="#FFBCBDBF"/>
                                 </Ellipse.Effect>
                             </Ellipse>
                             <Ellipse x:Name="ellipse" Fill="#FF202427" HorizontalAlignment="Center" Height="40" StrokeThickness="1" VerticalAlignment="Center" Width="40" Stroke="Black">
@@ -182,7 +182,7 @@
                         <Grid  Height="50" Width="50">
                             <Ellipse x:Name="ellipse2" HorizontalAlignment="Center" Height="40" Stroke="{x:Null}" StrokeThickness="0" VerticalAlignment="Center" Width="40" Fill="Black">
                                 <Ellipse.Effect>
-                                    <DropShadowEffect BlurRadius="8" Direction="129" Color="#FF88CB6F"/>
+                                    <DropShadowEffect BlurRadius="8" Direction="129" Color="#FFBCBDBF"/>
                                 </Ellipse.Effect>
                             </Ellipse>
                             <Ellipse x:Name="ellipse" Fill="#FF202427" HorizontalAlignment="Center" Height="40" StrokeThickness="1" VerticalAlignment="Center" Width="40" Stroke="Black">
@@ -248,7 +248,7 @@
                         <Grid  Height="50" Width="50">
                             <Ellipse x:Name="ellipse2" HorizontalAlignment="Center" Height="40" Stroke="{x:Null}" StrokeThickness="0" VerticalAlignment="Center" Width="40" Fill="Black">
                                 <Ellipse.Effect>
-                                    <DropShadowEffect BlurRadius="8" Direction="129" Color="#FFC76FCB"/>
+                                    <DropShadowEffect BlurRadius="8" Direction="129" Color="#FFBCBDBF"/>
                                 </Ellipse.Effect>
                             </Ellipse>
                             <Ellipse x:Name="ellipse" Fill="#FF202427" HorizontalAlignment="Center" Height="40" StrokeThickness="1" VerticalAlignment="Center" Width="40" Stroke="Black">
