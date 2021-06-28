@@ -16,7 +16,6 @@ C:\Users\Nikit\source\repos\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
 C:\Users\Nikit\Source\Repos\Calculator_V2\WpfApp2\bin\Debug\WpfApp2.exe.config
 C:\Users\Nikit\Source\Repos\Calculator_V2\WpfApp2\bin\Debug\WpfApp2.exe
 C:\Users\Nikit\Source\Repos\Calculator_V2\WpfApp2\bin\Debug\WpfApp2.pdb
-C:\Users\Nikit\Source\Repos\Calculator_V2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
 C:\Users\Nikit\Source\Repos\Calculator_V2\WpfApp2\obj\Debug\MainWindow.g.cs
 C:\Users\Nikit\Source\Repos\Calculator_V2\WpfApp2\obj\Debug\App.g.cs
 C:\Users\Nikit\Source\Repos\Calculator_V2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache

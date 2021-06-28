@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace WpfApp2
 {
-    class Calculation
+   public class Calculation
     {
         public static string Calculate(double num_1, double num_2, string sigh)
         {
             switch (sigh)
             {
                 case "+":
-                    return Convert.ToString(num_1 + num_2);
+                    return Convert.ToString(Summ(num_1,num_2));
 
                 case "-":
-                    return Convert.ToString(num_1 - num_2);
+                    return Convert.ToString(Subtraction(num_1, num_2));
                 case "X":
-                    return Convert.ToString(num_1 * num_2);
+                    return Convert.ToString(Multiplication(num_1, num_2));
                 case "/":
-                    return Convert.ToString(num_1 / num_2);
+                    return Convert.ToString(Division(num_1, num_2));
                 case "%":
-                    return Convert.ToString(num_1 % num_2);
+                    return Convert.ToString(Remainder_Division(num_1, num_2));
                 default:
                     return "";
             }
@@ -53,6 +53,26 @@ namespace WpfApp2
         public static string DeleteAll()
         {
             return "";
+        }
+        public static double Summ(double num_1, double num_2)
+        {
+            return num_1 + num_2;
+        }
+        public static double Subtraction(double num_1, double num_2)
+        {
+            return num_1 - num_2;
+        }
+        public static double Multiplication(double num_1, double num_2)
+        {
+            return num_1 * num_2;
+        }
+        public static double Division(double num_1, double num_2)
+        {
+            return num_1 / num_2;
+        }
+        public static double Remainder_Division(double num_1, double num_2)
+        {
+            return num_1 % num_2;
         }
     }
 }
